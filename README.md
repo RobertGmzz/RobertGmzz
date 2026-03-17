@@ -28,3 +28,5 @@ Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos,
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 No soy experto en ninguna, pero he trabajado y me manejo bien con todas ellas. 
+
+Mi correo. r0b3rt0gzz@gmail.com
