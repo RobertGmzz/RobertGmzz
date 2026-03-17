@@ -1,6 +1,6 @@
 # Hola!👋 Soy Robert Gómez!
 
-Soy un estudiante del área de desarrollo web front-end. Llevo en este rubro más de un año y tengo bastante experiencia creando aplicaciones web.
+Soy un estudiante del área de desarrollo web front-end. Llevo aprendiendo sobre el rubro más de un año y tengo bastante experiencia creando aplicaciones web.
 
 ## Por el momento...
 Me encuentro trabajando en proyectos propios. 
@@ -8,7 +8,7 @@ Mi proyecto más reciente es `CSS Switch Gallery`.
 
 Quiero conseguir mi primer empleo pronto, y de este modo conocer cómo es formar parte de un equipo, sumar más experiencia, obtener nuevos conocimientos y desarrollar habilidades blandas.
 
-Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudandome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
+Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudándome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
 
 ### Mi stack hasta el momento (en orden):
 
