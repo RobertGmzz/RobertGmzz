@@ -2,7 +2,15 @@
 
 Soy un estudiante del área de desarrollo web front-end. Llevo en este rubro más de un año y tengo bastante experiencia creando aplicaciones web.
 
-### Mi stack hasta el momento (orden cronológico):
+## Por el momento...
+Me encuentro trabajando en proyectos propios. 
+Mi proyecto más reciente es `CSS Switch Gallery`.
+
+Quiero conseguir mi primer empleo pronto, y de este modo conocer cómo es formar parte de un equipo, sumar más experiencia, obtener nuevos conocimientos y desarrollar habilidades blandas.
+
+Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudandome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
+
+### Mi stack hasta el momento (en orden):
 
 #### Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -20,11 +28,3 @@ Soy un estudiante del área de desarrollo web front-end. Llevo en este rubro má
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 No soy experto en ninguna, pero he trabajado y me manejo bien con todas ellas. 
-
-## Por el momento...
-Me encuentro trabajando en proyectos propios. 
-Mi proyecto más reciente es `CSS Switch Gallery`.
-
-Quiero conseguir mi primer empleo pronto, y de este modo conocer cómo es formar parte de un equipo, sumar más experiencia, obtener nuevos conocimientos y desarrollar habilidades blandas.
-
-Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudandome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
