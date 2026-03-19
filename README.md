@@ -10,7 +10,7 @@ Quiero conseguir mi primer empleo pronto, y de este modo conocer cómo es formar
 
 Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudándome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
 
-### Mi stack hasta el momento (en orden):
+### Mi stack hasta el momento:
 
 #### Herramientas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
