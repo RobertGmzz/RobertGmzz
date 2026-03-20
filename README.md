@@ -4,7 +4,7 @@ Desarrollador Frontend Junior con experiencia en la creación de aplicaciones we
 
 ## Por el momento...
 Desarrollo proyectos propios enfocados en interfaces modernas, responsivas y escalables.
-Mi proyecto más reciente es `CSS Switch Gallery`, una herramienta que permite visualizar y aplicar estilos CSS dinámicamente mediante CDN, pensada para facilitar el trabajo de otros desarrolladores. [Puedes verla aquí](https://css-switch-gallery.vercel.app/).
+Mi proyecto más reciente es `CSS Switch Gallery`, una herramienta que permite visualizar y aplicar estilos CSS dinámicamente mediante CDN, pensada para facilitar el trabajo de otros desarrolladores.
 
 No tengo experiencia laboral, pero estoy listo para trabajar como developer. Me interesa formar parte de un equipo donde pueda aportar valor desde el desarrollo frontend, seguir aprendiendo buenas prácticas y trabajar con tecnologías modernas.
 
@@ -29,4 +29,5 @@ Enfocado en mejorar continuamente mis habilidades técnicas y en el uso responsa
 
 No soy experto en ninguna, pero he trabajado y me manejo bien con todas ellas. 
 
+El proyecto [CSS Switch Gallery](https://css-switch-gallery.vercel.app/).
 Mi correo. r0b3rt0gzz@gmail.com
