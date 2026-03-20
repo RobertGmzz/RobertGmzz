@@ -1,14 +1,14 @@
 # Hola!👋 Soy Robert Gómez!
 
-Soy un estudiante del área de desarrollo web front-end. Llevo aprendiendo sobre el rubro más de un año y tengo bastante experiencia creando aplicaciones web.
+Desarrollador Frontend Junior con experiencia en la creación de aplicaciones web usando React, JavaScript, HTML y CSS.
 
 ## Por el momento...
-Me encuentro trabajando en proyectos propios. 
-Mi proyecto más reciente es `CSS Switch Gallery`.
+Desarrollo proyectos propios enfocados en interfaces modernas, responsivas y escalables.
+Mi proyecto más reciente es `CSS Switch Gallery`, una herramienta que permite visualizar y aplicar estilos CSS dinámicamente mediante CDN, pensada para facilitar el trabajo de otros desarrolladores. [Puedes verla aquí](https://css-switch-gallery.vercel.app/).
 
-Quiero conseguir mi primer empleo pronto, y de este modo conocer cómo es formar parte de un equipo, sumar más experiencia, obtener nuevos conocimientos y desarrollar habilidades blandas.
+No tengo experiencia laboral, pero estoy listo para trabajar como developer. Me interesa formar parte de un equipo donde pueda aportar valor desde el desarrollo frontend, seguir aprendiendo buenas prácticas y trabajar con tecnologías modernas.
 
-Mientras tanto mi foco será aprender tecnologías y flujos de trabajo modernos, perfeccionar mis habilidades y aumentar conocimiento, ayudándome con un uso responsable y controlado de herramientas de desarrollo con IA para no quedarme atrás.
+Enfocado en mejorar continuamente mis habilidades técnicas y en el uso responsable de herramientas de desarrollo, incluyendo IA como apoyo al aprendizaje.
 
 ### Mi stack hasta el momento:
 
