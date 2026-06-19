@@ -1,6 +1,3 @@
-# Hola!👋 Soy Robert Gómez!
+## Desarrollo prototipos de aplicaciones web y landings basadome en interfaces modernas y faciles de usar.
 
-## Desarrollo proyectos propios enfocados en interfaces modernas, responsivas y escalables.
-
-Mi proyecto más reciente es `CSS Switch Gallery`, una herramienta que permite visualizar y aplicar estilos CSS dinámicamente mediante CDN, pensada para facilitar el trabajo de otros desarrolladores.
-El proyecto [CSS Switch Gallery](https://css-switch-gallery.vercel.app/).
+Mi ultimo proyecto es [CSS Switch Gallery](https://css-switch-gallery.vercel.app/), una herramienta que te ayudará a encontrar y hacer uso de estilos CSS predefinidos que se sirven mediante CDN, podrás utilizarlos libremente y no requieren instalación.
